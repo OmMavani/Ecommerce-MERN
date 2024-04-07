@@ -40,7 +40,7 @@ const Contact = () => {
             }}
           />
           <strong>
-            Email: <span>ommavani4444@gmail.com</span>
+            Email: <span>20bce036@nirmauni.ac.in</span>
           </strong>
         </div>
         <div className="flex align__items__center"
@@ -57,7 +57,7 @@ const Contact = () => {
             }}
           />
           <strong>
-            Address: <span>Genxel Technology PVT LTD</span>
+            Address: <span>VB Infotech</span>
           </strong>
         </div>
         {/* <p style={{

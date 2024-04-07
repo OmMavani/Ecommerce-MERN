@@ -93,7 +93,7 @@ window.addEventListener("scroll", () =>{
         >
           <strong style={{
             padding:"0px 5px"
-          }}>Email:</strong> ommavani4444@gmail.com
+          }}>Email:</strong> 20bce036@nirmauni.ac.in
         </span>
       </div>
     </div>
