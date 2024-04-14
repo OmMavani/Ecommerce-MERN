@@ -46068,7 +46068,7 @@
                       }),
                       (0, He.jsx)("strong", { children: "Address:" }),
                       (0, He.jsx)("h6", {
-                        children: "Genxel Technology PVT LTD",
+                        children: "VB Infotech PVT LTD",
                       }),
                     ],
                   }),
@@ -46087,7 +46087,7 @@
                         }),
                       }),
                       (0, He.jsx)("strong", { children: "Email:" }),
-                      (0, He.jsx)("h6", { children: "4444@gmail.com" }),
+                      (0, He.jsx)("h6", { children: "20bce036@nirmauni.ac.in" }),
                     ],
                   }),
                   (0, He.jsxs)("div", {
@@ -54195,7 +54195,7 @@
                         children: [
                           "Address: ",
                           (0, He.jsx)("span", {
-                            children: "Genxel Technology PVT LTD",
+                            children: "VB Infotech PVT LTD",
                           }),
                         ],
                       }),
