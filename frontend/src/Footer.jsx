@@ -23,7 +23,7 @@ const Footer = () => {
             <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
           </svg>
           <strong>Address:</strong>
-          <h6>VB Infotech PVT LTD</h6>
+          <h6>110, Shreenathji Icon, VIP Cir, Uttran, Surat, Gujarat 394105</h6>
         </div>
 
         <div className="location flex py__10">

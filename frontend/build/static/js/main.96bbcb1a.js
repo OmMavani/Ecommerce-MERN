@@ -45097,7 +45097,7 @@
                               style: { padding: "0px 5px" },
                               children: "Email:",
                             }),
-                            " 20bce036@nirmauni.ac.in",
+                            " vasoyabrothers.infotech@gmail.com",
                           ],
                         }),
                       ],
@@ -46068,7 +46068,7 @@
                       }),
                       (0, He.jsx)("strong", { children: "Address:" }),
                       (0, He.jsx)("h6", {
-                        children: "VB Infotech PVT LTD",
+                        children: "110, Shreenathji Icon, VIP Cir, Uttran, Surat, Gujarat 394105",
                       }),
                     ],
                   }),
@@ -46087,7 +46087,7 @@
                         }),
                       }),
                       (0, He.jsx)("strong", { children: "Email:" }),
-                      (0, He.jsx)("h6", { children: "20bce036@nirmauni.ac.in" }),
+                      (0, He.jsx)("h6", { children: "vasoyabrothers.infotech@gmail.com" }),
                     ],
                   }),
                   (0, He.jsxs)("div", {
@@ -46105,7 +46105,7 @@
                         }),
                       }),
                       (0, He.jsx)("strong", { children: "Call us:" }),
-                      (0, He.jsx)("h6", { children: "+91 9978291091" }),
+                      (0, He.jsx)("h6", { children: "+91 8200177634" }),
                     ],
                   }),
                   (0, He.jsxs)("div", {
@@ -54176,7 +54176,7 @@
                         children: [
                           "Email: ",
                           (0, He.jsx)("span", {
-                            children: "20bce036@nirmauni.ac.in",
+                            children: "vasoyabrothers.infotech@gmail.com",
                           }),
                         ],
                       }),
@@ -54195,7 +54195,7 @@
                         children: [
                           "Address: ",
                           (0, He.jsx)("span", {
-                            children: "VB Infotech PVT LTD",
+                            children: "110, Shreenathji Icon, VIP Cir, Uttran, Surat, Gujarat 394105",
                           }),
                         ],
                       }),
